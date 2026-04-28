@@ -12,8 +12,8 @@ Didn't Had chance to explore other versions, although this is the latest version
 
 ## Download, Use, Troubleshoot 💡
 🔽 Downloads:
-- Mediafire link [here](https://www.google.com)
-- Mega link [here](https://www.google.com)
+- Mediafire link [here](https://www.mediafire.com/folder/ugfstlfqjmbbe/TankColorMisil)
+- Mega link [here](https://mega.nz/folder/YARgiASR#dvBZ3D89VC4C7DKr_j6p7A)
 - Github file link [here](https://www.google.com)
 
 ℹ️ Once you download the script, you want to run it on GameGuardian, in a Match & then you'll have to follow the instructions.
